@@ -132,8 +132,15 @@ into a single seamless experience.
 
 ## 📦 Download
 
-👉 APK: **Coming Soon**
-👉 Version: **v0.1.0-alpha**
+<p align="center">
+  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.1.0-alpha/LiveLens-v0.1.0-alpha.apk">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
+  </a>
+</p>
+
+<p align="center">
+  Version: <b>v0.1.0-alpha</b>
+</p>
 
 ---
 
