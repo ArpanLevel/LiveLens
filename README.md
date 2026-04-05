@@ -29,11 +29,11 @@
 
 ## 🚀 About LiveLens
 
-**LiveLens** is a powerful Android streaming engine that combines  
-🎥 **Live Streaming, Video Recording, and Multi-Source Control**  
-into one seamless experience.
+**LiveLens** is a powerful Android streaming engine that combines
+🎥 **Live Streaming, Video Recording, and Multi-Source Control**
+into a single seamless experience.
 
-📱 Built to deliver an **OBS-like workflow on mobile**, giving you full control without complex setups.
+📱 Designed to deliver an **OBS-like workflow on mobile**, giving you full control without complex setups.
 
 ---
 
@@ -42,76 +42,76 @@ into one seamless experience.
 ### 🎥 Streaming & Recording
 
 * 🔴 RTMP streaming (Stream URL + Key)
-* 🎬 Stream ke saath video recording (ON / OFF)
-* 📺 Resolution: **720p / 1080p / 2K / 4K**
-* ⚡ FPS: **30 / 60**
-* 🔒 Auto device-based settings lock/unlock
+* 🎬 Record video while streaming (toggle ON/OFF)
+* 📺 Resolution support: **720p / 1080p / 2K / 4K**
+* ⚡ Frame rates: **30 / 60 FPS**
+* 🔒 Automatic device-based settings lock/unlock
 
 ---
 
 ### 🎙 Advanced Audio Control
 
-* 🎤 Mic + Internal audio support (Android 10+)
+* 🎤 Microphone + Internal audio support (Android 10+)
 * 🔊 Noise suppression
 * 🎚 Echo cancellation
-* 🚀 Mic gain boost
-* 🎛 Noise gate threshold
+* 🚀 Microphone gain boost
+* 🎛 Noise gate threshold control
 
 ---
 
-### 🖼 Multi Source System
+### 🖼 Multi-Source System
 
 * 📱 Screen capture
-* 📷 Camera (Front + Back)
-* 📝 Text overlay
-* 🖼 Image overlay
-* 🌐 Web overlay
+* 📷 Camera (Front & Back)
+* 📝 Text overlays
+* 🖼 Image overlays
+* 🌐 Web overlays
 
 ---
 
 ### 🎨 Canvas & Editing
 
 * 📐 Canvas modes: **16:9 / 9:16**
-* 🖱 Drag • Zoom • Reposition sources
-* 🧩 Full-screen edit mode
+* 🖱 Drag, zoom, and reposition sources
+* 🧩 Full-screen editing mode
 
 ---
 
 ### 📝 Text Customization
 
 * 🎨 Color control
-* 🔤 System + Custom fonts
-* 🌫 Opacity support
+* 🔤 System fonts + Custom fonts
+* 🌫 Opacity control
 
 ---
 
 ### 📷 Camera Features
 
-* 🔄 Front & Back camera
-* ✂️ Crop support
-* ⚠️ Android 14+ me background camera freeze (system policy)
+* 🔄 Front and back camera support
+* ✂️ Crop functionality
+* ⚠️ Note: On Android 14+, background camera may freeze due to system policies
 
 ---
 
 ### 🖼 Image Features
 
-* ✂️ Crop support
+* ✂️ Crop functionality
 
 ---
 
 ### ⚙️ Advanced Controls
 
-* 🔓 Resolution & FPS unlock
-* 🚀 Source limits unlock
-* 🎛 Power-user level controls
+* 🔓 Unlock resolution and FPS limits
+* 🚀 Unlock source limits
+* 🎛 Advanced control options for power users
 
 ---
 
 ## ⚠️ Current Limitations
 
-* ❌ Direct account login streaming
-* ❌ Multi-stream support
-* ❌ Chroma key
+* ❌ No direct account login for streaming
+* ❌ No multi-stream support
+* ❌ No chroma key support
 
 ---
 
@@ -119,13 +119,13 @@ into one seamless experience.
 
 * 🔑 Direct account login streaming
 * 📡 Multi-stream support
-* 🎨 Chroma key
-* 💾 Save / Import / Export configs
+* 🎨 Chroma key support
+* 💾 Save / Import / Export configurations
 * 🔔 Notification controls:
 
   * Mic mute/unmute
   * Stream start/stop
-  * BRB / Starting Soon toggle
+  * BRB / Starting Soon toggles
 * 📅 Stream scheduling
 
 ---
@@ -133,13 +133,13 @@ into one seamless experience.
 ## 📦 Download
 
 👉 APK: **Coming Soon**
-👉 Version: **v1.0**
+👉 Version: **v0.1.0-alpha**
 
 ---
 
 ## 🛠 Tech Highlights
 
-* ⚙️ Kotlin-based Android app
+* ⚙️ Built with Kotlin for Android
 * 🎧 Real-time audio mixing engine
 * 🎞 Multi-layer rendering system
 * 🌐 RTMP streaming integration
@@ -148,15 +148,15 @@ into one seamless experience.
 
 ## 🎯 Why LiveLens?
 
-👉 📱 Experience OBS-level control directly on your mobile  
-👉 🎥 Real-time multi-source streaming capabilities  
-👉 ⚡ Optimized for high performance and low resource usage  
+👉 📱 Experience OBS-level control directly on your mobile
+👉 🎥 Real-time multi-source streaming capabilities
+👉 ⚡ Optimized for high performance and efficient resource usage
 
 ---
 
 ## 👤 Developer
 
-Made with ❤️ by *Arpan**
+Made with ❤️ by **Arpan**
 
 ---
 
