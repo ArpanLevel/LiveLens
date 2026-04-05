@@ -148,15 +148,15 @@ into one seamless experience.
 
 ## 🎯 Why LiveLens?
 
-👉 📱 Mobile par **OBS jaisa powerful control**
-👉 🎥 Real-time multi-source streaming
-👉 ⚡ Lightweight + high performance
+👉 📱 Experience OBS-level control directly on your mobile  
+👉 🎥 Real-time multi-source streaming capabilities  
+👉 ⚡ Optimized for high performance and low resource usage  
 
 ---
 
 ## 👤 Developer
 
-Made with ❤️ by **Your Name**
+Made with ❤️ by *Arpan**
 
 ---
 
