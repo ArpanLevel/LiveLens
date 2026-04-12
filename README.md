@@ -26,7 +26,6 @@
 </p>
 
 ---
-
 ## 🚀 About LiveLens
 
 **LiveLens** is a powerful Android streaming engine that combines
@@ -66,6 +65,7 @@ into a single seamless experience.
 * 📝 Text overlays
 * 🖼 Image overlays
 * 🌐 Web overlays
+* 🌐 **Local HTML overlays (NEW)**
 
 ---
 
@@ -104,6 +104,12 @@ into a single seamless experience.
 * 🔓 Unlock resolution and FPS limits
 * 🚀 Unlock source limits
 * 🎛 Advanced control options for power users
+* 🎮 **Floating controls (NEW)** — enable only the controls you need
+* 🔔 **Notification controls (NEW)** for quick access:
+
+  * 🎤 Mic mute/unmute
+  * ▶️ Stream start/stop
+  * ⏸ BRB / Starting Soon toggles
 
 ---
 
@@ -121,19 +127,26 @@ into a single seamless experience.
 * 📡 Multi-stream support
 * 🎨 Chroma key support
 * 💾 Save / Import / Export configurations
-* 🔔 Notification controls:
+* 📅 Stream scheduling system
+* ⚙️ Enhanced notification & control system
 
-  * Mic mute/unmute
-  * Stream start/stop
-  * BRB / Starting Soon toggles
-* 📅 Stream scheduling
+---
+
+## 📦 Notes
+
+* LiveLens is actively evolving — new features are being added rapidly
+* Some features may still be experimental in alpha versions
+
+---
+
+💬 Your feedback helps improve LiveLens — keep it coming!
 
 ---
 
 ## 📦 Download
 
 <p align="center">
-  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.1.0-alpha/LiveLens-v0.1.0-alpha.apk">
+  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.2.0-alpha/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
   </a>
 </p>
