@@ -152,7 +152,7 @@ into a single seamless experience.
 </p>
 
 <p align="center">
-  Version: <b>v0.1.0-alpha</b>
+  Version: <b>v0.2.0-alpha</b>
 </p>
 
 ---
