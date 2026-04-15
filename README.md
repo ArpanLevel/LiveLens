@@ -169,10 +169,11 @@
 
 ## 🔐 Privacy
 
-We take privacy seriously.
-👉 Read full policy here:
-https://arpanlevel.github.io/LiveLens/privacy-policy.html
-
+<p align="left">
+  <a href="https://arpanlevel.github.io/LiveLens/privacy-policy.html">
+    <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge"/>
+  </a>
+</p>
 ---
 
 ## 👤 Developer
