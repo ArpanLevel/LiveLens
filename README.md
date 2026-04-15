@@ -166,6 +166,10 @@
 👉 ⚡ High performance & optimized
 
 ---
+## 📄 Terms of Service
+
+👉 [Read Terms of Service](https://arpanlevel.github.io/LiveLens/terms-of-service.html)
+
 
 ## 🔐 Privacy
 
