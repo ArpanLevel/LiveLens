@@ -1,11 +1,17 @@
 <h1 align="center">🎥 LiveLens</h1>
 
 <p align="center">
-  🔥 Powerful Android Streaming & Recording Engine  
+  🔥 Powerful Android Streaming & Recording Engine
 </p>
 
 <p align="center">
   📱 Stream • Record • Control — All in One Place
+</p>
+
+<p align="center">
+  <a href="https://arpanlevel.github.io/LiveLens/privacy-policy.html">
+    🔐 Privacy Policy
+  </a>
 </p>
 
 ---
@@ -26,11 +32,16 @@
 </p>
 
 ---
+
 ## 🚀 About LiveLens
 
-**LiveLens** is a powerful Android streaming engine that combines
-🎥 **Live Streaming, Video Recording, and Multi-Source Control**
-into a single seamless experience.
+**LiveLens** is a powerful Android streaming engine that combines:
+
+🎥 **Live Streaming**
+🎬 **Video Recording**
+🎛 **Multi-Source Control**
+
+👉 All in one seamless experience.
 
 📱 Designed to deliver an **OBS-like workflow on mobile**, giving you full control without complex setups.
 
@@ -42,19 +53,19 @@ into a single seamless experience.
 
 * 🔴 RTMP streaming (Stream URL + Key)
 * 🎬 Record video while streaming (toggle ON/OFF)
-* 📺 Resolution support: **720p / 1080p / 2K / 4K**
+* 📺 Resolution: **720p / 1080p / 2K / 4K**
 * ⚡ Frame rates: **30 / 60 FPS**
-* 🔒 Automatic device-based settings lock/unlock
+* 🔒 Smart device-based limits
 
 ---
 
 ### 🎙 Advanced Audio Control
 
-* 🎤 Microphone + Internal audio support (Android 10+)
+* 🎤 Mic + Internal audio (Android 10+)
 * 🔊 Noise suppression
 * 🎚 Echo cancellation
-* 🚀 Microphone gain boost
-* 🎛 Noise gate threshold control
+* 🚀 Gain boost
+* 🎛 Noise gate control
 
 ---
 
@@ -65,81 +76,63 @@ into a single seamless experience.
 * 📝 Text overlays
 * 🖼 Image overlays
 * 🌐 Web overlays
-* 🌐 **Local HTML overlays (NEW)**
+* 🧠 Local HTML overlays (NEW)
 
 ---
 
 ### 🎨 Canvas & Editing
 
-* 📐 Canvas modes: **16:9 / 9:16**
-* 🖱 Drag, zoom, and reposition sources
-* 🧩 Full-screen editing mode
+* 📐 16:9 / 9:16 canvas modes
+* 🖱 Drag, zoom, reposition
+* 🧩 Full-screen editing
 
 ---
 
 ### 📝 Text Customization
 
 * 🎨 Color control
-* 🔤 System fonts + Custom fonts
+* 🔤 Custom fonts
 * 🌫 Opacity control
 
 ---
 
 ### 📷 Camera Features
 
-* 🔄 Front and back camera support
+* 🔄 Front & back support
 * ✂️ Crop functionality
-* ⚠️ Note: On Android 14+, background camera may freeze due to system policies
-
----
-
-### 🖼 Image Features
-
-* ✂️ Crop functionality
+* ⚠️ Android 14+ background limitations
 
 ---
 
 ### ⚙️ Advanced Controls
 
-* 🔓 Unlock resolution and FPS limits
-* 🚀 Unlock source limits
-* 🎛 Advanced control options for power users
-* 🎮 **Floating controls (NEW)** — enable only the controls you need
-* 🔔 **Notification controls (NEW)** for quick access:
+* 🔓 Unlock resolution & FPS
+* 🚀 Remove source limits
+* 🎮 Floating controls (NEW)
+* 🔔 Notification controls:
 
-  * 🎤 Mic mute/unmute
-  * ▶️ Stream start/stop
-  * ⏸ BRB / Starting Soon toggles
+  * 🎤 Mic toggle
+  * ▶️ Stream control
+  * ⏸ BRB / Starting Soon
 
 ---
 
 ## ⚠️ Current Limitations
 
-* ❌ No direct account login for streaming
-* ❌ No multi-stream support
-* ❌ No chroma key support
+* ❌ No direct account login
+* ❌ No multi-stream
+* ❌ No chroma key
 
 ---
 
 ## 🚀 Upcoming Features
 
-* 🔑 Direct account login streaming
+* 🔑 Direct platform login (YouTube/Twitch)
 * 📡 Multi-stream support
-* 🎨 Chroma key support
-* 💾 Save / Import / Export configurations
-* 📅 Stream scheduling system
-* ⚙️ Enhanced notification & control system
-
----
-
-## 📦 Notes
-
-* LiveLens is actively evolving — new features are being added rapidly
-* Some features may still be experimental in alpha versions
-
----
-
-💬 Your feedback helps improve LiveLens — keep it coming!
+* 🎨 Chroma key
+* 💾 Save/Import configs
+* 📅 Stream scheduling
+* ⚙️ Enhanced controls
 
 ---
 
@@ -159,18 +152,26 @@ into a single seamless experience.
 
 ## 🛠 Tech Highlights
 
-* ⚙️ Built with Kotlin for Android
-* 🎧 Real-time audio mixing engine
-* 🎞 Multi-layer rendering system
+* ⚙️ Kotlin-based Android app
+* 🎧 Real-time audio mixing
+* 🎞 Multi-layer rendering engine
 * 🌐 RTMP streaming integration
 
 ---
 
 ## 🎯 Why LiveLens?
 
-👉 📱 Experience OBS-level control directly on your mobile
-👉 🎥 Real-time multi-source streaming capabilities
-👉 ⚡ Optimized for high performance and efficient resource usage
+👉 📱 OBS-like control on mobile
+👉 🎥 Real-time multi-source streaming
+👉 ⚡ High performance & optimized
+
+---
+
+## 🔐 Privacy
+
+We take privacy seriously.
+👉 Read full policy here:
+https://arpanlevel.github.io/LiveLens/privacy-policy.html
 
 ---
 
@@ -185,3 +186,6 @@ Made with ❤️ by **Arpan**
 All rights reserved © LiveLens
 *(This project is not open-source)*
 
+---
+
+💬 Feedback is always welcome — help shape LiveLens 🚀
