@@ -18,32 +18,25 @@
 ## 📸 Preview
 
 <p align="center">
-  <img id="slideshow" src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="300"/>
+  <img src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="260"/>
+  <img src="https://i.ibb.co/8L6fBH2s/Screenshot-20260416-154115.png" width="260"/>
+  <img src="https://i.ibb.co/84MzKXzc/Screenshot-20260416-154041.png" width="260"/>
 </p>
-## 📸 Preview
 
 <p align="center">
+  <img src="https://i.ibb.co/0VBypg4v/Screenshot-20260416-154002.png" width="260"/>
+  <img src="https://i.ibb.co/gMBSfTFb/Screenshot-20260416-153933.png" width="260"/>
+  <img src="https://i.ibb.co/PypXDPf/Screenshot-20260416-153905.png" width="260"/>
+</p>
 
-<img src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="300"/><br><br>
+<p align="center">
+  <img src="https://i.ibb.co/gZmmh4ff/Screenshot-20260416-153839.png" width="260"/>
+  <img src="https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png" width="260"/>
+  <img src="https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png" width="260"/>
+</p>
 
-<img src="https://i.ibb.co/8L6fBH2s/Screenshot-20260416-154115.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/84MzKXzc/Screenshot-20260416-154041.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/0VBypg4v/Screenshot-20260416-154002.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/gMBSfTFb/Screenshot-20260416-153933.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/PypXDPf/Screenshot-20260416-153905.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/gZmmh4ff/Screenshot-20260416-153839.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png" width="300"/><br><br>
-
-<img src="https://i.ibb.co/B2k6LDMk/Screenshot-20260416-153634.png" width="300"/>
-
+<p align="center">
+  <img src="https://i.ibb.co/B2k6LDMk/Screenshot-20260416-153634.png" width="260"/>
 </p>
 
 ---
