@@ -52,10 +52,18 @@
 ### 🎥 Streaming & Recording
 
 * 🔴 RTMP streaming (Stream URL + Key)
+* 🔐 Direct Twitch streaming (NEW)
 * 🎬 Record video while streaming (toggle ON/OFF)
 * 📺 Resolution: **720p / 1080p / 2K / 4K**
 * ⚡ Frame rates: **30 / 60 FPS**
 * 🔒 Smart device-based limits
+
+---
+
+### 🔐 Account Integration (NEW)
+
+* 🔗 Twitch login supported → stream directly from app
+* 🔗 YouTube login added *(streaming disabled until app verification is complete)*
 
 ---
 
@@ -69,14 +77,29 @@
 
 ---
 
+### 🎬 Scene System (NEW)
+
+* 🧩 Create and manage multiple scenes
+* 📂 Organize layouts, overlays, and sources
+* ⚠️ Scene switching during live/recording not supported *(system limitation)*
+
+---
+
 ### 🖼 Multi-Source System
 
 * 📱 Screen capture
 * 📷 Camera (Front & Back)
-* 📝 Text overlays
+* 📝 Text overlays *(Enhanced)*
 * 🖼 Image overlays
-* 🌐 Web overlays
-* 🧠 Local HTML overlays (NEW)
+* 🌐 Web overlays *(Enhanced)*
+* 🧠 Local HTML overlays
+
+---
+
+### 🌐 Web Overlay Improvements (NEW)
+
+* 🌍 Browse mode support
+* ✂️ Crop functionality
 
 ---
 
@@ -88,11 +111,12 @@
 
 ---
 
-### 📝 Text Customization
+### 📝 Text Customization (Enhanced)
 
 * 🎨 Color control
 * 🔤 Custom fonts
 * 🌫 Opacity control
+* 💅 CSS styling support (Preset + Custom)
 
 ---
 
@@ -108,7 +132,7 @@
 
 * 🔓 Unlock resolution & FPS
 * 🚀 Remove source limits
-* 🎮 Floating controls (NEW)
+* 🎮 Floating controls
 * 🔔 Notification controls:
 
   * 🎤 Mic toggle
@@ -119,7 +143,8 @@
 
 ## ⚠️ Current Limitations
 
-* ❌ No direct account login
+* ❌ YouTube streaming not available yet (pending app verification)
+* ❌ Scene switching during live not supported *(system limitation)*
 * ❌ No multi-stream
 * ❌ No chroma key
 
@@ -127,7 +152,6 @@
 
 ## 🚀 Upcoming Features
 
-* 🔑 Direct platform login (YouTube/Twitch)
 * 📡 Multi-stream support
 * 🎨 Chroma key
 * 💾 Save/Import configs
@@ -139,13 +163,13 @@
 ## 📦 Download
 
 <p align="center">
-  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.2.0-alpha/app-release.apk">
+  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.3.0-alpha/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
   </a>
 </p>
 
 <p align="center">
-  Version: <b>v0.2.0-alpha</b>
+  Version: <b>v0.3.0-alpha</b>
 </p>
 
 ---
@@ -155,7 +179,7 @@
 * ⚙️ Kotlin-based Android app
 * 🎧 Real-time audio mixing
 * 🎞 Multi-layer rendering engine
-* 🌐 RTMP streaming integration
+* 🌐 RTMP + Direct platform integration
 
 ---
 
@@ -166,10 +190,12 @@
 👉 ⚡ High performance & optimized
 
 ---
+
 ## 📄 Terms of Service
 
 👉 [Read Terms of Service](https://arpanlevel.github.io/LiveLens/terms-of-service.html)
 
+---
 
 ## 🔐 Privacy
 
@@ -178,6 +204,7 @@
     <img src="https://img.shields.io/badge/Privacy%20Policy-View-blue?style=for-the-badge"/>
   </a>
 </p>
+
 ---
 
 ## 👤 Developer
