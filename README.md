@@ -15,21 +15,33 @@
 </p>
 
 ---
-
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://i.ibb.co/PzNMVc8L/Screenshot-20260405-132004.png" width="250"/>
-  <img src="https://i.ibb.co/39Q4sTN0/Screenshot-20260405-131941.png" width="250"/>
-  <img src="https://i.ibb.co/LXGvJ9NZ/Screenshot-20260405-131925.png" width="250"/>
+  <img id="slideshow" src="https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png" width="300"/>
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/RpMK9nVf/Screenshot-20260405-131848.png" width="250"/>
-  <img src="https://i.ibb.co/SXz9khRN/Screenshot-20260405-131825.png" width="250"/>
-  <img src="https://i.ibb.co/ccz1PyMw/Screenshot-20260405-131806.png" width="250"/>
-  <img src="https://i.ibb.co/FL6Wd7kc/Screenshot-20260405-131621.png" width="250"/>
-</p>
+<script>
+  const images = [
+    "https://i.ibb.co/0jMWg4zK/Screenshot-20260416-154149.png",
+    "https://i.ibb.co/8L6fBH2s/Screenshot-20260416-154115.png",
+    "https://i.ibb.co/84MzKXzc/Screenshot-20260416-154041.png",
+    "https://i.ibb.co/0VBypg4v/Screenshot-20260416-154002.png",
+    "https://i.ibb.co/gMBSfTFb/Screenshot-20260416-153933.png",
+    "https://i.ibb.co/PypXDPf/Screenshot-20260416-153905.png",
+    "https://i.ibb.co/gZmmh4ff/Screenshot-20260416-153839.png",
+    "https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png",
+    "https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png",
+    "https://i.ibb.co/B2k6LDMk/Screenshot-20260416-153634.png"
+  ];
+
+  let index = 0;
+  setInterval(() => {
+    index = (index + 1) % images.length;
+    document.getElementById("slideshow").src = images[index];
+  }, 2000);
+</script>
+
 
 ---
 
