@@ -15,6 +15,7 @@
 </p>
 
 ---
+
 ## 📸 Preview
 
 <p align="center">
@@ -34,7 +35,6 @@
   <img src="https://i.ibb.co/4wxnM3JF/Screenshot-20260416-153825.png" width="260"/>
   <img src="https://i.ibb.co/ks1kWKKh/Screenshot-20260416-153812.png" width="260"/>
 </p>
-
 <p align="center">
   <img src="https://i.ibb.co/B2k6LDMk/Screenshot-20260416-153634.png" width="260"/>
 </p>
@@ -45,8 +45,8 @@
 
 **LiveLens** is a powerful Android streaming engine that combines:
 
-🎥 **Live Streaming**
-🎬 **Video Recording**
+🎥 **Live Streaming**  
+🎬 **Video Recording**  
 🎛 **Multi-Source Control**
 
 👉 All in one seamless experience.
@@ -60,15 +60,22 @@
 ### 🎥 Streaming & Recording
 
 * 🔴 RTMP streaming (Stream URL + Key)
-* 🔐 Direct Twitch streaming (NEW)
+* 🔐 Direct Twitch streaming
 * 🎬 Record video while streaming (toggle ON/OFF)
-* 📺 Resolution: **720p / 1080p / 2K / 4K**
+* 📺 Resolution: **480p / 720p / 1080p / 2K / 4K**
 * ⚡ Frame rates: **30 / 60 FPS**
 * 🔒 Smart device-based limits
 
 ---
 
-### 🔐 Account Integration (NEW)
+### 📡 Multi-Stream (NEW)
+
+* 🔁 Stream to multiple platforms at once
+* 🚀 Expand reach without extra setup
+
+---
+
+### 🔐 Account Integration
 
 * 🔗 Twitch login supported → stream directly from app
 * 🔗 YouTube login added *(streaming disabled until app verification is complete)*
@@ -85,7 +92,7 @@
 
 ---
 
-### 🎬 Scene System (NEW)
+### 🎬 Scene System
 
 * 🧩 Create and manage multiple scenes
 * 📂 Organize layouts, overlays, and sources
@@ -101,13 +108,7 @@
 * 🖼 Image overlays
 * 🌐 Web overlays *(Enhanced)*
 * 🧠 Local HTML overlays
-
----
-
-### 🌐 Web Overlay Improvements (NEW)
-
-* 🌍 Browse mode support
-* ✂️ Crop functionality
+* 🎞 GIF overlays *(NEW)*
 
 ---
 
@@ -115,16 +116,27 @@
 
 * 📐 16:9 / 9:16 canvas modes
 * 🖱 Drag, zoom, reposition
+* 🔄 Rotation support (Web, Image, Text, GIF)
+* ✂️ Crop support (Image, GIF, Camera)
 * 🧩 Full-screen editing
 
 ---
 
-### 📝 Text Customization (Enhanced)
+### 📝 Text & Theme Customization (Enhanced)
 
 * 🎨 Color control
 * 🔤 Custom fonts
 * 🌫 Opacity control
 * 💅 CSS styling support (Preset + Custom)
+* 🎛 JSON-based theme system *(NEW)*
+* 🖼 Custom background (Image + GIF support)
+
+---
+
+### 🌐 Web Overlay Improvements
+
+* 🌍 Browse mode support
+* ✂️ Crop functionality
 
 ---
 
@@ -132,6 +144,7 @@
 
 * 🔄 Front & back support
 * ✂️ Crop functionality
+* 🎭 Chroma key support *(NEW)*
 * ⚠️ Android 14+ background limitations
 
 ---
@@ -140,7 +153,8 @@
 
 * 🔓 Unlock resolution & FPS
 * 🚀 Remove source limits
-* 🎮 Floating controls
+* 🎮 Floating controls *(Enhanced customization)*
+* ⚙️ Encoder selection *(H.264 / H.265 — device dependent)*
 * 🔔 Notification controls:
 
   * 🎤 Mic toggle
@@ -153,31 +167,29 @@
 
 * ❌ YouTube streaming not available yet (pending app verification)
 * ❌ Scene switching during live not supported *(system limitation)*
-* ❌ No multi-stream
-* ❌ No chroma key
+* ❌ Multi-stream stability may vary based on device performance
 
 ---
 
 ## 🚀 Upcoming Features
 
-* 📡 Multi-stream support
-* 🎨 Chroma key
+* 🌐 Direct login & streaming for platforms like **Facebook & Kick**
 * 💾 Save/Import configs
 * 📅 Stream scheduling
-* ⚙️ Enhanced controls
+* ⚙️ Enhanced controls & automation
 
 ---
 
 ## 📦 Download
 
 <p align="center">
-  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.3.0-alpha/app-release.apk">
+  <a href="https://github.com/ArpanLevel/LiveLens/releases/download/v0.4.0-alpha/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android"/>
   </a>
 </p>
 
 <p align="center">
-  Version: <b>v0.3.0-alpha</b>
+  Version: <b>v0.4.0-alpha</b>
 </p>
 
 ---
@@ -193,9 +205,9 @@
 
 ## 🎯 Why LiveLens?
 
-👉 📱 OBS-like control on mobile
-👉 🎥 Real-time multi-source streaming
-👉 ⚡ High performance & optimized
+👉 📱 OBS-like control on mobile  
+👉 🎥 Real-time multi-source streaming  
+👉 ⚡ High performance & optimized  
 
 ---
 
@@ -223,7 +235,7 @@ Made with ❤️ by **Arpan**
 
 ## 📄 License
 
-All rights reserved © LiveLens
+All rights reserved © LiveLens  
 *(This project is not open-source)*
 
 ---
