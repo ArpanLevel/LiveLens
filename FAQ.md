@@ -9,7 +9,7 @@ LiveLens is a professional live streaming, recording, scene control, and VTuber 
 Yes! LiveLens is completely free to use. There are no forced accounts, ads, watermarks, or hidden paywalls.
 
 ### What are the system requirements?
-- **Android:** Android 8.0 or higher
+- **Android:** Android 10 or higher
 - **RAM:** Minimum 4GB (6GB+ recommended for better performance)
 - **Storage:** At least 500MB free space
 - **Internet:** Stable connection for streaming
