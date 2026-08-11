@@ -95,7 +95,7 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 
 ### 🎭 **Scenes & Sources**
 - 📋 Unlimited scene creation & organization
-- 🖼️ **10+ Source Types**: Screen • Text • Image • Camera • Video • Web • GIF • VTuber • Audio • Timer
+- 🖼️ **9 Source Types**: Screen • Text • Image • Camera • Video • Web • GIF • VTuber • UVC Beta
 - ✏️ Edit live while streaming/recording
 - 🔒 Lock, hide, reorder sources instantly
 - 📐 16:9 & 9:16 canvas with smart alignment guides
