@@ -71,7 +71,7 @@ Whether you're a **gamer, streamer, content creator, VTuber, or influencer**, Li
 - 🎬 **Professional Recording** - High-bitrate local recording while streaming
 - 🎨 **Scene Management** - Complex scene setups with ease
 - 🎤 **Studio-Grade Audio** - Advanced audio processing & controls
-- 💰 **One-Time Purchase** - No subscriptions, no recurring fees
+- 💰 **No One-Time Purchase** - No subscriptions, no recurring fees
 
 ---
 
